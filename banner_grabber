@@ -12,8 +12,8 @@ def redBanner(ip,port):
     except Exception, e:
         print "[-] Error" + str(e)
 def main():
-    ip1='5.9.219.38'
-    ip2='5.2.9.218'
+    ip1='127.0.0.1'
+    ip2='127.0.1.0'
     port=21
     banner1=redBanner(ip1,port)
     if banner1:
