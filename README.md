@@ -1,4 +1,7 @@
-pyscripts
-=========
+Banner Grabber
+===============
 
-list of python scritps for practice.
+Usage:
+-------
+
+python banner-grabber.py 127.0.0.1
